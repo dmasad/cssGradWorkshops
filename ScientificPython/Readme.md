@@ -28,9 +28,15 @@ To launch the notebook with inline plotting, enter:
     >ipython notebook --pylab inline
 
 
-To view IPython notebooks hosted online (e.g. in this GitHub repository), use the [IPython Notebook Viewer](http://nbviewer.ipython.org/). For example:
+To view IPython notebooks hosted online (e.g. in this GitHub repository), use the [IPython Notebook Viewer](http://nbviewer.ipython.org/). 
 
-http://nbviewer.ipython.org/urls/raw.github.com/dmasad/cssGradWorkshops/master/ScientificPython/Intro%2520to%2520Scientific%2520Python.ipynb
+
+### Class notes:
+
+[Sample notebook](http://nbviewer.ipython.org/urls/raw.github.com/dmasad/cssGradWorkshops/master/ScientificPython/Intro%2520to%2520Scientific%2520Python.ipynb)
+
+
+[The notebook we created during the workshop](http://nbviewer.ipython.org/urls/raw.github.com/dmasad/cssGradWorkshops/master/ScientificPython/Class%2520demo.ipynb). (Not very well organzied)
 
 
 
